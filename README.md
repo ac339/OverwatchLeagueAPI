@@ -1,6 +1,9 @@
 # OverwatchLeagueAPI
 A C# wrapper for the Overwatch League API.
 
+**NOTICE:**
+On July 20, 2018, the Overwatch League commissioner, Nate Nanzer, [made a post on Reddit.com](https://www.reddit.com/r/Competitiveoverwatch/comments/8z8ysf/the_dream_comes_true_match_stats_are_finally_here/e2p4tcl/) stating that the official API isn't quite ready for public consumption at this time. As such, work on this wrapper will recommence once Blizzard are ready to officially release their API to the public! 😀
+
 ## Requirements
 - .NET Standard 2.0
 - Newtonsoft's [Json.NET](https://www.newtonsoft.com/json) library - v. 11.0.2
